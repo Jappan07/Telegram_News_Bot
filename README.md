@@ -10,6 +10,7 @@ Genres you can try -
 - Sports
 - Science
 - Health
+
 To use the bot, download Telegram on your device.
 On the search bar search for jappan07_bot aka NewsBot.
 Welcome to my bot 😁👍🏻
